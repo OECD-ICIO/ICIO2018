@@ -1,0 +1,16 @@
+The ICIO  (December 2018edition)related files in Rdata format are available here
+https://www.dropbox.com/sh/r6h95u5ggehso4m/AADbSQcBdyY7MBeoix09hm_Ya?dl=0 
+
+Please see ReadMe_ICIO_R.xlsx for the descriptions of the data objects.
+
+Kind regards,
+
+OECD STAN/TIVA team 
+
+Structural Analysis Database 
+Trade in Value Added
+Trade in eMployment
+Input-Output Tables
+Bilateral Trade in Goods by Industry and End-use category 
+
+
